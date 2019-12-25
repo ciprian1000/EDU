@@ -15,4 +15,4 @@ if(MSVC)
 	endforeach()
 endif()
 
-add_subdirectory("Lesson001 - Basic program structure")
+add_subdirectory("Lesson001-Basic_program_structure")
