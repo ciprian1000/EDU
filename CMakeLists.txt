@@ -16,3 +16,5 @@ if(MSVC)
 endif()
 
 add_subdirectory("Lesson001-Basic_program_structure")
+add_subdirectory("Lesson002-Variables")
+add_subdirectory("Lesson003-Functions")
