@@ -76,7 +76,7 @@ void InstructionThree() {
 
 //--------------------------------------------------------------------------
 
-void main() { // This is the main function, the starting point of this program
+int main() { // This is the main function, the starting point of this program
 	InstructionThree();
 
 	InstructionOne();

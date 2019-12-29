@@ -38,7 +38,7 @@ where they are alive and accessible.
 
 void exercise();
 
-void main() {
+int main() {
 	/*
 	The following variable is scoped to the function and is not accessible from 
 	other functions
