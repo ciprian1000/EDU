@@ -123,7 +123,7 @@ void Exercises() {
 
 		
 		//----------------------
- 		PrettyPrint("Expecting a value of 0: ", result, 0);
+		PrettyPrint("Expecting a value of 0: ", result, 0);
 	}
 }
 
