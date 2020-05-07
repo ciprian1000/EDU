@@ -100,7 +100,7 @@ INSTALLATION
   when dealing with cmake). "mkdir solution" then "cd solution".
   Use cmake to generate a solution for your installed IDE:
   
-  cmake -G "Visual Studio 15 2017" ..
+  cmake -G "Visual Studio 16 2019" ..
   
   This example will generate a Visual Studio 2017 solution. There are many generators
   that you can use.
