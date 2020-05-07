@@ -53,8 +53,9 @@ INSTALLATION
 		and keep the project up to date;
 	Download link: https://git-scm.com/downloads
   Google search for the latest version of git and follow the install instructions;
+  
   To download the project open a terminat or command promt, navigate to an appropriate
-  directory and use the command
+  directory and use the command 
   
   git clone https://github.com/ciprian1000/EDU.git EDU
   

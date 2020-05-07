@@ -25,4 +25,4 @@ add_subdirectory("Lesson005-Branching")
 add_subdirectory("Lesson006-Loops")
 add_subdirectory("Lesson007-Code_separation")
 add_subdirectory("Lesson008-Namespaces")
-
+add_subdirectory("Lesson009-Classes_and_structs_basic")

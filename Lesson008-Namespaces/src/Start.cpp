@@ -93,8 +93,7 @@ void Exercises() {
 
 	
 
-	
-	std::cout << "E is aproximatelly " << Math::E << std::endl;
-
-	std::cout << "PI is aproximatelly " << Math::Circle::PI << std::endl;
+	//uncomment the following 2 lines:
+	//std::cout << "E is aproximatelly " << Math::E << std::endl;
+	//std::cout << "PI is aproximatelly " << Math::Circle::PI << std::endl;
 }
